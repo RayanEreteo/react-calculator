@@ -7,7 +7,7 @@ Pour démarrer avec la calculatrice :
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/RayanEreteo/WeatherApp.git
+    git clone https://github.com/RayanEreteo/react-calculator.git
     cd react-calculator
     ```
 
