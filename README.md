@@ -7,8 +7,8 @@ Pour démarrer avec la calculatrice :
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/votre-utilisateur/WeatherApp.git
-    cd WeatherApp
+    git clone https://github.com/RayanEreteo/WeatherApp.git
+    cd react-calculator
     ```
 
 2. Installez les dépendances :
